@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Luciana Etcheverry</title>
+    <link>lucianaetcheverry.com/</link>
+    <description>Recent content in About on Luciana Etcheverry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="lucianaetcheverry.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Research</title>
+      <link>lucianaetcheverry.com/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>lucianaetcheverry.com/research/</guid>
+      <description>Working papers  Work half-time, receive full-time pay: Effect of novel family policy on female labor market outcomes (Job Market Paper)
+Many countries provide paid family leave to increase female labor force participation, improve gender equality, and foster family wellbeing. Yet, a large percentage of women do not return to work after maternity leave. Can a subsidy that allows a more flexible re-introduction to work increase work attachment after birth? I leverage the implementation of a subsidy in Uruguay that allows parents to work half-time while receiving full-time pay for 4 month after the culmination of maternity leave to answer this question.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>lucianaetcheverry.com/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>lucianaetcheverry.com/teaching/</guid>
+      <description>At University of Oregon as the instructor of record I have taught advanced econometrics, labor, and development economics, managed teaching assistants and TA&amp;rsquo;ed for a variety of courses. I have been distinguished with a Graduate Teaching Award and received excellent student feedback. Below you can find course summaries, materials, and student feedback.
+Independent Instructor EC 350: Issues in Labor Economics (Spring 2019, Spring 2020)
+Syllabus
+In this course, students explore issues in the labor market using insights from economic theory and empirical papers.</description>
+    </item>
+    
+  </channel>
+</rss>
