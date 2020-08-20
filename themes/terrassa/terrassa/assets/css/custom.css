@@ -1,0 +1,17 @@
+.floatright {
+	max-width: 60%;
+	height: auto;
+	float: right;
+	margin-left: 15px;
+	margin-right: 0;
+}
+
+.floatleft {
+	max-width: 60%;
+	width: auto;
+	height: auto;
+	float: left;
+	margin-right: 15px;
+	margin-left: 0;
+}
+
