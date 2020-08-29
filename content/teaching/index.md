@@ -14,20 +14,20 @@ At University of Oregon as the instructor of record I have taught advanced econo
 
 **EC 350: Issues in Labor Economics** (Spring 2019, Spring 2020)  
 [Syllabus](Etcheverry_EC350_S20_Syllabus.pdf)  
-In this course, students explore issues in the labor market using insights from economic theory and empirical papers. The course starts studying labor supply and labor demand and then it examines some of the potential causes of wage inequality, such as human capital investment, compensating wage differentials, the decline of organized labor, and discrimination.   
+In this course, students explore issues in the labor market using insights from economic theory and empirical papers. This course begins by studying labor supply and labor demand and then it examines some of the potential causes of wage inequality, such as human capital investment, compensating wage differentials, the decline of organized labor, and discrimination.   
  
  
  
 **EC 421: Introduction to Econometrics (II)** (Fall 2019, Fall 2020)  
 [Syllabus,](Etcheverry_EC421_F19_Syllabus.pdf) [Course materials](https://github.com/LuEtcheverry/EC421F19)  
-This course prepares students for the demands of real-world applications. Toward this goal, we examine the assumptions that underly econometric and statistical models. These models impose strong assumptions that are often violated in practice. Thus, we will relax these assumptions-replacing them with looser, more palatable assumptions-and derive, build, and estimate the resulting new models. By the end of this course, students have the ability to statistically examine the bulk of economic issues using econometrics-knowing how to empirically test economic models and knowing the strengths, weaknesses, and assumptions of their chosen route of analysis. Learning statistical programming is inherent to practicing applied econometrics. Consequently, throughout this course students also learn the statistical programming language R.
+This course prepares students for the demands of real-world applications. Toward this goal, the couse begins by examining the assumptions that underly econometric and statistical models. These models impose strong assumptions that are often violated in practice. Next, by relaxing these assumptions and replacing them with looser, more palatable assumptions, students derive, build, and estimate the resulting new models. By the end of this course, students have the ability to statistically examine the bulk of economic issues using econometrics-knowing how to empirically test economic models and knowing the strengths, weaknesses, and assumptions of their chosen route of analysis. Learning statistical programming is inherent to practicing applied econometrics. Consequently, throughout this course students also learn the statistical programming language R.
 
 
 
 **EC 490: Development Economics** (Summer 2020)  
 [Syllabus](Etcheverry_EC490_Syllabus_Su20.pdf)  
 This course explores the main issues affecting the well-being of individuals living in low- and middle-income countries while studying the decision-making process of these households, with a focus on health, education and finance. Students are exposed to both theoretical and empirical tools used in development as well as the tools used to critically evaluate development and poverty alleviation programs run by governments and non-governmental organizations.
-While doing so, students honor their skills to critically read academic articles from empirical economics, and deepen their understanding of econometrics learning about RCT, difference-in-differences and fixed effects models among others.
+While doing so, students hone their skills to critically read academic articles from empirical economics, and deepen their understanding of econometrics learning about RCT, difference-in-differences and fixed effects models, among others.
 
 
 
