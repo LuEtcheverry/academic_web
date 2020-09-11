@@ -6,7 +6,8 @@ draft: no
 weight: 3
 ---
 
-At University of Oregon as the instructor of record I have taught advanced econometrics, labor, and development economics, managed teaching assistants and TA'ed for a variety of courses. I have been distinguished with a Graduate Teaching Award and received excellent student feedback. Below you can find course summaries, materials, and student feedback.   
+
+At the University of Oregon, I have served as an independent instructor five times -in econometrics, labor economics, and development economics.  These were large courses that also involved managing teaching assistants.  I have also served as a teaching assistant for a variety of courses. I received the 2020 Department of Economics Graduate Teaching Award, and consistently receive excellent student feedback.  Below, you can find summaries of the courses I have taught, along with syllabi, other course materials, and examples of student feedback.  Note that the University of Oregon has transitioned away from quantitative teaching evaluations, so the bulk of my feedback is qualitative.
 
 
 ## Independent Instructor  
