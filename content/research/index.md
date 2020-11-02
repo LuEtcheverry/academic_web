@@ -13,7 +13,7 @@ weight: 2
 **Work half-time, receive full-time pay: Effect of novel family policy on female labor market outcomes** *(Job Market Paper)*
 [Link to paper](Etcheverry_jmp_draft.pdf)
 
-Many countries provide paid family leave to increase female labor force participation, improve gender equality, and foster family wellbeing. Yet, a large percentage of women do not return to work after maternity leave. Can a subsidy that allows a more flexible re-introduction to work increase work attachment after birth? I leverage the implementation of a subsidy in Uruguay that allows parents to work half-time while receiving full-time pay for 4 month after the culmination of maternity leave to answer this question. Utilizing employment survey data in a difference-in-differences framework, I find that this parental care subsidy led to an increase in the likelihood of employment among mothers in the short and middle-term, specially for disadvantaged women.  
+Many countries provide paid family leave to increase female labor force participation, improve gender equality, and foster family wellbeing. Yet, a large percentage of women do not return to work after maternity leave. Can a subsidy that allows a more flexible re-introduction to work increase work attachment after birth? I leverage the implementation of a subsidy in Uruguay that allows parents to work half-time while receiving full-time pay for 4 months after the culmination of maternity leave to answer this question. Utilizing employment survey data in a difference-in-differences framework, I find that this parental care subsidy led to an increase in the likelihood of employment among mothers in the short and middle-term, especially for disadvantaged women.  
 {{< figure >}}  
 {{< figure >}}
 
@@ -43,7 +43,16 @@ Traditional banks and microfinance institutions lend directly to clients using i
 
 **Do brighter street lights reduce crime?: The case of Binghamton, NY (with Carlos Diaz)**
 
+## Other Research
 
+**Assessment of data on vector and host competence for Japanese encephalitis virus: a systematic review of the literature.** with Oliveira, A.R., Strathe, E., Cohnstaedt, L.W., McVey, D.S., Piaggio, J., Cernicchiaro, N. **Preventive Veterinary Medicine,** 2018.
+[Link to published paper](https://doi.org/10.1016/j.prevetmed.2018.03.018)
+
+**Meta-analyses of Japanese encephalitis virus infection, dissemination, and transmission rates in vectors.** with Oliveira, A.R.S., Cohnstaedt, L.W., Strathe, E., McVey, D.S., Piaggio, J., Cernicchiaro, N. **American Journal of Tropical Medicine and Hygiene,** 2017.
+[Link to published paper](http://www.ajtmh.org/content/journals/10.4269/ajtmh.17-0622)
+
+**Meta-analysis of the proportion of Japanese encephalitis virus infection in vectors and vertebrate hosts.** with Oliveira, A.R.S., Cohnstaedt, L.W., Strathe, E., L., McVey, D.S., Piaggio, J., Cernicchiaro, N. **Parasites & Vectors Journal,** 2017.
+[Link to published paper](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-017-2354-7)
 
 
 
