@@ -13,7 +13,9 @@ weight: 2
 **Work half-time, receive full-time pay: Effect of novel family policy on female labor market outcomes** *(Job Market Paper)*
 [Link to paper](Etcheverry_jmp_draft.pdf)
 
-Many countries provide paid family leave to increase female labor force participation, improve gender equality, and foster family wellbeing. Yet, a large percentage of women do not return to work after maternity leave. Can a subsidy that allows a more flexible re-introduction to work increase work attachment after birth? I leverage the implementation of a subsidy in Uruguay that allows parents to work half-time while receiving full-time pay for 4 months after the culmination of maternity leave to answer this question. Utilizing employment survey data in a difference-in-differences framework, I find that this parental care subsidy led to an increase in the likelihood of employment among mothers in the short and middle-term, especially for disadvantaged women.  
+Many countries provide paid family leave to increase female labor force participation, improve gender equality, and foster family wellbeing. Yet, a large percentage of women do not return to work after maternity leave. Can a policy that allows flexible reintroduction to work increase labor force participation after childbirth? To answer this question, I study a unique subsidy implemented in Uruguay in 2014 that allows mothers to work half-time while receiving full-time pay for four months after maternity leave ends. I use eleven years of employment survey data in a difference-in-differences and triple difference framework and find an increase in the likelihood of employment of 17% for eligible mothers up to 1 year after childbirth, and a decrease in hours worked
+of 5% without a significant reduction in income up to 3 years after childbirth. These findings demonstrate that policies easing the transition back from maternity leave can increase female labor force participation and reduce "child-penalties" in the short and medium-run.
+ 
 {{< figure >}}  
 {{< figure >}}
 

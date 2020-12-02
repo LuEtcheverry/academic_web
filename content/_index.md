@@ -22,11 +22,11 @@ weight: 1
 <!--<img align="right" src="luciana_etcheverry_n1.jpg" width = 30> -->
  
 
-I am a fifth-year Ph.D. candidate in the Department of Economics at the University of Oregon. I study development and labor economics using a broad microeconometric toolkit. My research focuses on program and policy evaluation in the areas of paid family leave, early childhood development, financial inclusion and crime.
+I am a fifth-year Ph.D. candidate in the Department of Economics at the University of Oregon. I study development, labor, and gender economics using a broad microeconometric toolkit. My research focuses on program and policy evaluation in the areas of paid family leave, early childhood development, financial inclusion and crime.
 
-Fields of Study: Applied Econometrics, Labor Economics, Development Economics, Gender Economics.
+Fields of Study: Labor Economics, Development Economics, Gender Economics, and Applied Econometrics.
 
-I am currently a job market candidate and available for interviews. 
+I am on the 2020-2021 job market and will be interviewing as part of the ASSA 2021 Virtual Conference.
 {{< figure >}}
 {{< figure >}}
 
