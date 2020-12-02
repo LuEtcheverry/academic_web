@@ -17,7 +17,6 @@ Many countries provide paid family leave to increase female labor force particip
 of 5% without a significant reduction in income up to 3 years after childbirth. These findings demonstrate that policies easing the transition back from maternity leave can increase female labor force participation and reduce "child-penalties" in the short and medium-run.
  
 {{< figure >}}  
-{{< figure >}}
 
 
 {{< figure class= "floatright" src="paternity_map.png" width= "450">}} 
@@ -45,6 +44,7 @@ Traditional banks and microfinance institutions lend directly to clients using i
 
 **Do brighter street lights reduce crime?: The case of Binghamton, NY (with Carlos Diaz)**
 
+{{< figure >}}
 ## Other Research
 
 **Assessment of data on vector and host competence for Japanese encephalitis virus: a systematic review of the literature.** with Oliveira, A.R., Strathe, E., Cohnstaedt, L.W., McVey, D.S., Piaggio, J., Cernicchiaro, N. **Preventive Veterinary Medicine,** 2018.
